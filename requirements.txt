@@ -7,7 +7,7 @@ attrs==25.3.0
     #   frictionless
     #   jsonschema
     #   referencing
-beautifulsoup4==4.13.3
+beautifulsoup4==4.13.4
     # via pandas
 certifi==2025.1.31
     # via requests
@@ -59,7 +59,7 @@ markupsafe==3.0.2
     # via jinja2
 mdurl==0.1.2
     # via markdown-it-py
-numpy==2.2.4
+numpy==2.2.5
     # via pandas
 odfpy==1.4.1
     # via pandas
@@ -68,7 +68,7 @@ openpyxl==3.1.5
     #   dpm
     #   frictionless
     #   pandas
-packaging==24.2
+packaging==25.0
     # via
     #   pytest
     #   python-calamine
@@ -132,7 +132,7 @@ six==1.17.0
     # via
     #   html5lib
     #   python-dateutil
-soupsieve==2.6
+soupsieve==2.7
     # via beautifulsoup4
 tableschema-to-template==0.0.13
     # via frictionless
@@ -169,7 +169,7 @@ xlrd==2.0.1
     # via
     #   frictionless
     #   pandas
-xlsxwriter==3.2.2
+xlsxwriter==3.2.3
     # via
     #   pandas
     #   tableschema-to-template
