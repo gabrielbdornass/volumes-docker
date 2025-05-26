@@ -80,7 +80,7 @@ petl==1.7.16
     # via frictionless
 pluggy==1.6.0
     # via pytest
-pydantic==2.11.4
+pydantic==2.11.5
     # via frictionless
 pydantic-core==2.33.2
     # via pydantic
@@ -120,7 +120,7 @@ rfc3986==2.0.0
     # via frictionless
 rich==14.0.0
     # via typer
-rpds-py==0.25.0
+rpds-py==0.25.1
     # via
     #   jsonschema
     #   referencing
@@ -153,7 +153,7 @@ typing-extensions==4.13.2
     #   referencing
     #   typer
     #   typing-inspection
-typing-inspection==0.4.0
+typing-inspection==0.4.1
     # via pydantic
 tzdata==2025.2
     # via pandas
