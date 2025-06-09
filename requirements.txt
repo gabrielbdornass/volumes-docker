@@ -59,7 +59,7 @@ markupsafe==3.0.2
     # via jinja2
 mdurl==0.1.2
     # via markdown-it-py
-numpy==2.2.6
+numpy==2.3.0
     # via pandas
 odfpy==1.4.1
     # via pandas
@@ -72,7 +72,7 @@ packaging==25.0
     # via
     #   pytest
     #   python-calamine
-pandas==2.2.3
+pandas==2.3.0
     # via
     #   -r requirements.in
     #   dpm
@@ -85,10 +85,12 @@ pydantic==2.11.5
 pydantic-core==2.33.2
     # via pydantic
 pygments==2.19.1
-    # via rich
+    # via
+    #   pytest
+    #   rich
 pyquery==2.0.1
     # via frictionless
-pytest==8.3.5
+pytest==8.4.0
     # via -r requirements.in
 python-calamine==0.3.2
     # via pandas
@@ -144,7 +146,7 @@ typer==0.16.0
     # via
     #   dpm
     #   frictionless
-typing-extensions==4.13.2
+typing-extensions==4.14.0
     # via
     #   beautifulsoup4
     #   frictionless
