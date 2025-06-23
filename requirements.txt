@@ -59,7 +59,7 @@ markupsafe==3.0.2
     # via jinja2
 mdurl==0.1.2
     # via markdown-it-py
-numpy==2.3.0
+numpy==2.3.1
     # via pandas
 odfpy==1.4.1
     # via pandas
@@ -84,13 +84,13 @@ pydantic==2.11.7
     # via frictionless
 pydantic-core==2.33.2
     # via pydantic
-pygments==2.19.1
+pygments==2.19.2
     # via
     #   pytest
     #   rich
 pyquery==2.0.1
     # via frictionless
-pytest==8.4.0
+pytest==8.4.1
     # via -r requirements.in
 python-calamine==0.3.2
     # via pandas
@@ -161,7 +161,7 @@ tzdata==2025.2
     # via pandas
 unidecode==1.4.0
     # via dpm
-urllib3==2.4.0
+urllib3==2.5.0
     # via requests
 validators==0.35.0
     # via frictionless
@@ -171,7 +171,7 @@ xlrd==2.0.2
     # via
     #   frictionless
     #   pandas
-xlsxwriter==3.2.3
+xlsxwriter==3.2.5
     # via
     #   pandas
     #   tableschema-to-template
