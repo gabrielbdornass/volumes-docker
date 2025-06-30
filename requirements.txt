@@ -47,7 +47,7 @@ jsonschema==4.24.0
     #   tableschema-to-template
 jsonschema-specifications==2025.4.1
     # via jsonschema
-lxml==5.4.0
+lxml==6.0.0
     # via
     #   pandas
     #   pyquery
@@ -98,7 +98,7 @@ python-dateutil==2.9.0.post0
     # via
     #   frictionless
     #   pandas
-python-dotenv==1.1.0
+python-dotenv==1.1.1
     # via dpm
 python-slugify==8.0.4
     # via frictionless
